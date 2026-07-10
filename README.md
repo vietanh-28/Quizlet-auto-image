@@ -1,4 +1,4 @@
-# Quizlet Auto Image Adder
+# Quizlet Auto Image 
 Công cụ hỗ trợ giáo viên và học sinh tự động thêm ảnh vào các bộ từ vựng trên Quizlet, tiết kiệm thời gian thiết kế bài giảng.
 
 ## 🚀 Cách cài đặt nhanh
@@ -21,5 +21,5 @@ Công cụ hỗ trợ giáo viên và học sinh tự động thêm ảnh vào c
 
 ## 🤝 Góp ý
 - Nếu bạn gặp lỗi trong quá trình sử dụng, vui lòng nhấn vào phần **Issues** ở trên để báo cho tôi biết nhé!
-- Đây là phần mềm do em làm lúc đang học từ vựng, thiết kế do AI làm ạ.Em cảm ơn mọi người.
+- Đây là phần mềm do em làm lúc đang học từ vựng, thiết kế do AI làm ạ. Em cảm ơn mọi người.
 *Made with ❤️ by Viet Anh*
