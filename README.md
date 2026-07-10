@@ -20,6 +20,6 @@ Công cụ hỗ trợ giáo viên và học sinh tự động thêm ảnh vào c
 - Xử lý mượt mà trên nền tảng Quizlet.
 
 ## 🤝 Góp ý
-Nếu bạn gặp lỗi trong quá trình sử dụng, vui lòng nhấn vào phần **Issues** ở trên để báo cho tôi biết nhé!
-Đây là phần mềm do em làm lúc đang học từ vựng, thiết kế do AI làm ạ.Em cảm ơn mọi người.
+-Nếu bạn gặp lỗi trong quá trình sử dụng, vui lòng nhấn vào phần **Issues** ở trên để báo cho tôi biết nhé!
+-Đây là phần mềm do em làm lúc đang học từ vựng, thiết kế do AI làm ạ.Em cảm ơn mọi người.
 *Made with ❤️ by Viet Anh*
