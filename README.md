@@ -25,4 +25,4 @@ Công cụ hỗ trợ giáo viên và học sinh tự động thêm ảnh vào c
 *Made with ❤️ by Viet Anh*
 
 
--Hình Ảnh Menu Em Xin Lấy Bên Anh xDatx/Studocu-Help ạ. Em cảm ơn anh.
+- Hình Ảnh Menu Em Xin Lấy Bên Anh xDatx/Studocu-Help ạ. Em cảm ơn anh.
