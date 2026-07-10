@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Quizlet Auto Image By Việt Anh",
+  "version": "1.0",
+  "description": "Tự động chọn ảnh gợi ý đầu tiên cho các từ vựng trên Quizlet.",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["*://quizlet.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Mở Menu Quizlet Auto"
+  }
+}
